@@ -65,3 +65,4 @@ main .features {
 }
 
 main .features h1 {front-size: 50px;}
+main .features p {max-width: 700px; margin: 20px auto}
