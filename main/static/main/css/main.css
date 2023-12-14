@@ -5,10 +5,11 @@ body {
 aside {
     float: left;
     background: #FFFFFF;
+    background-image: url(../img/SharedScreenshot.jpg);
     width: 17%;
     padding: 2.5%;
     height: 100vh; /* 100% */
-    color: #000000;
+    color: #FFFFFF;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -27,7 +28,7 @@ aside .logo {
     front-size: 30px;
     margin-left: 0px;
     font-weight: bold;
-    color: #FF0000;
+    color: #FFFFFF;
 }
 
 aside h3 {
@@ -41,7 +42,7 @@ aside ul a {
 
 aside ul {list-none: none}
 aside ul li {
-    color: #FF0000;
+    color: #FFFFFF;
     dispay: block;
     margin-top: 10px;
     transition: all .3s ease;
