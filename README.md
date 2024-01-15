@@ -7,6 +7,6 @@ I asked him to make a web site for my wife to publish it on google maps.
 
 
 
-## Acknowledgement.
+## Acknowledgements.
 To develop this application guy use a [django tutorial video](https://www.youtube.com/watch?v=L-FyeHQwo4U&list=PLDyJYA6aTY1nZ9fSGcsK4wqeu-xaJksQQ&pp=iAQB) on ["itProger"](https://www.youtube.com/@itproger) Youtube channel.
 
